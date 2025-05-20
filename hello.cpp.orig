@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <iostream>
 using namespace std;
 
@@ -11,9 +12,10 @@ int main() {
     else
         cout << number << " is odd." << endl;
 
-
+=======
 #include <iostream>  
 int main() {
     std::cout << "Hello, World!" << std::endl;
+>>>>>>> dev
     return 0;
 }
