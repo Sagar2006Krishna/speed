@@ -2,4 +2,6 @@ Hello amity
 Welcome to amity 
 available courses
 BTech cse
-
+btech aiml
+btech biotech
+btech es and vlsi

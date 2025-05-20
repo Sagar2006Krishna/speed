@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int main(){
-
+int main() {
+<<<<<<< HEAD
     char name[50];
 
     printf("Enter your name: ");
@@ -9,6 +9,9 @@ int main(){
 
     printf("Hello, %s!\n", name);
 
+=======
+
     printf("Hello, World!\n");
+>>>>>>> test
     return 0;
 }
